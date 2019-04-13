@@ -1,0 +1,15 @@
+https://centralindia.api.cognitive.microsoft.com/face/v1.0
+6f149250eb1342939c3314386fe70a00
+6a2ce48ffd8b456ba52333d91fdf6ece
+https://docs.microsoft.com/en-us/azure/cognitive-services/face/quickstarts/python
+https://devpost.com/software/emotionar
+https://devpost.com/software/echo-journal
+https://devpost.com/software/what-the-face
+
+
+https://devpost.com/software/emotionar
+https://devpost.com/software/emotion-radar
+https://devpost.com/software/echo-journal
+https://devpost.com/software/what-the-face
+https://devpost.com/software/mindhunter-wg5a9u
+https://devpost.com/software/emotilense

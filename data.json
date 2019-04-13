@@ -1,0 +1,15 @@
+{
+    "today":
+    [
+        {
+            "session":"writing",
+            "time":120,
+            "heartrate":[]
+        },
+        {
+            "session":"writing",
+            "time":45,
+            "heartrate":[]
+        }
+    ]
+}
